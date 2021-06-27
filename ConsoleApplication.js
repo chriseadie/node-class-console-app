@@ -1,0 +1,6 @@
+
+class ConsoleApplication{
+    async RunAsync(){
+
+    }
+}
